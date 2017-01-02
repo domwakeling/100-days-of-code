@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 2, 2016
+### Day 1: January 2, 2017
 
 **Today's Progress**: Finished 'Rogue(like) Adventure' (Project 15 on
   FreeCodeCamp).
