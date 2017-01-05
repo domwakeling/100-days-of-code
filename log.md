@@ -41,3 +41,15 @@ Primary resources used was the tutorial at Mike Bostock's site
 **Thoughts:** Seems like just getting started with D3 (and as noted yesterday, don't really have the background in ```svg```). In the absence of tutorials/challenges at FreeCodeCamp (which I think are coming) have found some other resources which I'll be looking at in coming days to improve knowledge.
 
 **Link to work:** [Bar Chart on CodePen](https://codepen.io/domwakeling/full/XpWpmW/)
+
+### Day 4: January 5, 2017
+
+**Today's Progress**: Finished FreeCodeCamp Project 17 (Scatterplot
+  Chart).
+
+**Thoughts:** Remember to check whether SASS/CSS styling of D3 elements is
+overwriting styling applied in Javascript - spent half an hour overcoming an
+apparent failure  of ```.attr('text-anchor','start')``` only to find that I'd
+applied ```'end'``` as part of CSS.
+
+**Link to work:** [Scatterplot Chart on CodePen](https://codepen.io/domwakeling/full/wgBMWb)
