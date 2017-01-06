@@ -53,3 +53,15 @@ apparent failure  of ```.attr('text-anchor','start')``` only to find that I'd
 applied ```'end'``` as part of CSS.
 
 **Link to work:** [Scatterplot Chart on CodePen](https://codepen.io/domwakeling/full/wgBMWb)
+
+### Day 5: January 6, 2017
+
+**Today's Progress**: Finished FreeCodeCamp Project 18 (Heat Map
+  Chart).
+
+**Thoughts:** Found a bug where the tooltip temperature expected a number
+  (passed to a string) with at least three decimal places and in **one** instance
+  the calculated value was **exactly** an integer. Easy-ish to fix once I'd
+  worked out what was causing the issue ... but **never asuume**.
+
+**Link to work:** [Heat Map Chart on CodePen](https://codepen.io/domwakeling/full/KawqXJ/)
