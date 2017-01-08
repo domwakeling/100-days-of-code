@@ -77,4 +77,20 @@ the ```<svg>``` that I was using for the rest of the chart; then give the
 absolute positioning to the ```<div>``` and everything worked. Would have preferred
 circular flags, but could't find a sprite-map that had square images suitable for this.
 
-**Link to work:** [Heat Map Chart on CodePen](http://codepen.io/domwakeling/full/PWqKPB)
+**Link to work:** Force Directed Chart on [CodePen](http://codepen.io/domwakeling/full/PWqKPB) and [GitHub](https://github.com/domwakeling/FreeCodeCamp-Project-19)
+
+### Day 7: January 8, 2017
+
+**Today's Progress**: Finished FreeCodeCamp Project 20 (Map Data on Globe).
+
+**Thoughts:** This one was tricky; took a long time to work out how
+to get the data to visualize using a globe (really wanted to use a
+  spherical view rather than a flattened map) and then get everything
+  to move/zoom correctly. Probably spent 3-4 hours trying various
+  solutions before I hit on the correct one.
+
+  Also (happilly) have worked out that if I store a data file on
+  GitHub and then click on the "RAW" button, I can get a link to
+  the original file which WILL work when using various JSONs.
+
+**Link to work:** Global Data & Map on [CodePen](http://codepen.io/domwakeling/full/apvbrO/) and [GitHub](https://github.com/domwakeling/FreeCodeCamp-Project-20)
