@@ -94,3 +94,7 @@ to get the data to visualize using a globe (really wanted to use a
   the original file which WILL work when using various JSONs.
 
 **Link to work:** Global Data & Map on [CodePen](http://codepen.io/domwakeling/full/apvbrO/) and [GitHub](https://github.com/domwakeling/FreeCodeCamp-Project-20)
+
+### Day 8: January 9, 2017
+
+**Today's Progress**: Completed how-to-npm.
