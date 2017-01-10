@@ -98,3 +98,11 @@ to get the data to visualize using a globe (really wanted to use a
 ### Day 8: January 9, 2017
 
 **Today's Progress**: Completed how-to-npm.
+
+### Day 9: January 10, 2017
+
+**Today's Progress**: Started learnyounode
+
+**Thoughts**: Getting a little trickier after a fairly simple introduction to
+npm yesterday, node.js is taking a bit more thought. Have finished half the
+exercise, starting to expose some of the more "server-y" side of things. 
