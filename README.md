@@ -105,4 +105,8 @@ to get the data to visualize using a globe (really wanted to use a
 
 **Thoughts**: Getting a little trickier after a fairly simple introduction to
 npm yesterday, node.js is taking a bit more thought. Have finished half the
-exercise, starting to expose some of the more "server-y" side of things. 
+exercise, starting to expose some of the more "server-y" side of things.
+
+### Day 10: January 11, 2017
+
+**Today's Progress**: More learnyounode - up to (and including) TCP time server.
