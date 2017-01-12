@@ -110,3 +110,10 @@ exercise, starting to expose some of the more "server-y" side of things.
 ### Day 10: January 11, 2017
 
 **Today's Progress**: More learnyounode - up to (and including) TCP time server.
+
+### Day 11: January 12, 2017
+
+**Today's Progress**: Finished learnyounode.
+
+**Thoughts**: Just when you think it's insanely difficult, it turns out there's
+a really simple solution ... and vice versa ...
