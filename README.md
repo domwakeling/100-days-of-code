@@ -117,3 +117,9 @@ exercise, starting to expose some of the more "server-y" side of things.
 
 **Thoughts**: Just when you think it's insanely difficult, it turns out there's
 a really simple solution ... and vice versa ...
+
+### Day 12: January 13, 2017
+
+**Today's Progress**: Node and Express
+
+**Thoughts**: Ran through the FreeCodeCamp module on Express, using the 'expressworks' package from Node School. Completed the tutorials.
