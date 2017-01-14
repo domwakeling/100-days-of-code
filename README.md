@@ -123,3 +123,15 @@ a really simple solution ... and vice versa ...
 **Today's Progress**: Node and Express
 
 **Thoughts**: Ran through the FreeCodeCamp module on Express, using the 'expressworks' package from Node School. Completed the tutorials.
+
+### Day 13: January 14, 2017
+
+**Today's Progress**: FreeCodeCamp Project 21
+
+**Thoughts**: Project is to create a microservice which is passed **either** a
+date (in natural format) **or** a Unix timestamp in it's URL, and to return a
+JSON object containing both the timestamp and the natural date.
+
+Got set up with Heroku (limited instructions but not difficult) and
+using ```sass-middleware``` in Node. Some hiccups along the way, but nothing
+major.
