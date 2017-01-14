@@ -135,3 +135,6 @@ JSON object containing both the timestamp and the natural date.
 Got set up with Heroku (limited instructions but not difficult) and
 using ```sass-middleware``` in Node. Some hiccups along the way, but nothing
 major.
+
+**Link to work:** [Live App](https://dry-castle-31853.herokuapp.com/) on Heroku,
+[source code](https://github.com/domwakeling/FreeCodeCamp-Project-21) on GitHub.
