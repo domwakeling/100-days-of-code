@@ -138,3 +138,15 @@ major.
 
 **Link to work:** [Live App](https://dry-castle-31853.herokuapp.com/) on Heroku,
 [source code](https://github.com/domwakeling/FreeCodeCamp-Project-21) on GitHub.
+
+### Day 14: January 15, 2017
+
+**Today's Progress**: FreeCodeCamp Project 22
+
+**Thoughts**: Project is to create a microservice which returns a JSON with the
+IP address, language and operating system that sent the request. This was
+actually a very quick and simple challenge, essentially just had to add
+Express as a dependency and write a very short server.js file ...
+
+**Link to work:** [Live App](https://evening-inlet-32614.herokuapp.com/) on Heroku,
+[source code](https://github.com/domwakeling/FreeCodeCamp-Project-22) on GitHub.
