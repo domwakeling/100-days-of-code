@@ -150,3 +150,12 @@ Express as a dependency and write a very short server.js file ...
 
 **Link to work:** [Live App](https://evening-inlet-32614.herokuapp.com/) on Heroku,
 [source code](https://github.com/domwakeling/FreeCodeCamp-Project-22) on GitHub.
+
+### Day 15: January 16, 2017
+
+**Today's Progress**: Finished 'learnyoumongo'
+
+**Thoughts**: Note that when using the collection.aggregate function, (a) it needs
+to be passed **an array** of match/action objects, and (b) when extracting data
+from the ```$match```ed items, the key being used needs to have a $ prefix - so
+for instance if you're summing over ```'price'```, you need to ```$sum: '$price'```
