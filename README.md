@@ -159,3 +159,11 @@ Express as a dependency and write a very short server.js file ...
 to be passed **an array** of match/action objects, and (b) when extracting data
 from the ```$match```ed items, the key being used needs to have a $ prefix - so
 for instance if you're summing over ```'price'```, you need to ```$sum: '$price'```
+
+### Day 16: January 17, 2017
+
+**Today's Progress**: Experimenting with a D3.js implementation for LSERSA website.
+
+**Thoughts**: Building a GeoJSON file is surprisingly simple, but remember to
+invert latitude/longitude when entering geometry coordinates. Working in test
+environment at the moment, will send live in due course.
