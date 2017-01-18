@@ -167,3 +167,13 @@ for instance if you're summing over ```'price'```, you need to ```$sum: '$price'
 **Thoughts**: Building a GeoJSON file is surprisingly simple, but remember to
 invert latitude/longitude when entering geometry coordinates. Working in test
 environment at the moment, will send live in due course.
+
+### Day 17: January 18, 2017
+
+**Today's Progress**: Improvements to the D3.js implentation for LSERSA
+
+**Thoughts**: Found a better (world) dataset via
+[GitHub](https://github.com/datasets/geo-countries) - note that it's a 24MB file
+but by cutting out everything except UK & Rep Ireland it's only 400KB. Also fixed
+zoom/pan on the chart (hadn't set ```d3.event.preventDefault()``` as a method).
+Some more work to do before putting this live, but principal coding is working well.
