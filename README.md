@@ -177,3 +177,7 @@ environment at the moment, will send live in due course.
 but by cutting out everything except UK & Rep Ireland it's only 400KB. Also fixed
 zoom/pan on the chart (hadn't set ```d3.event.preventDefault()``` as a method).
 Some more work to do before putting this live, but principal coding is working well.
+
+### Day 18: January 19, 2017
+
+**Today's Progress**: Working on a new idea - wire-framing a webpage
