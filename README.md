@@ -181,3 +181,8 @@ Some more work to do before putting this live, but principal coding is working w
 ### Day 18: January 19, 2017
 
 **Today's Progress**: Working on a new idea - wire-framing a webpage
+
+### Day 19: January 20, 2017
+
+**Today's Progress**: Continuing work on idea - basics finished, info
+modal implemented, starting to collect data.
