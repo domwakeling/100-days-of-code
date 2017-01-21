@@ -186,3 +186,7 @@ Some more work to do before putting this live, but principal coding is working w
 
 **Today's Progress**: Continuing work on idea - basics finished, info
 modal implemented, starting to collect data.
+
+### Day 20: January 21, 2017
+
+**Today's Progress**: Collecting data, refining style of modal and general layout.
