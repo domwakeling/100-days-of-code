@@ -190,3 +190,10 @@ modal implemented, starting to collect data.
 ### Day 20: January 21, 2017
 
 **Today's Progress**: Collecting data, refining style of modal and general layout.
+
+### Day 21: January 22, 2017
+
+**Today's Progress**: Completed data collection; interactive map now complete and
+working. Need to consider mousewheel events in Firefox, do **not** work and looks
+as though a fix is fiddly. Also need to add menu, lookup "near me" and then
+investigate adSense/cookies.
