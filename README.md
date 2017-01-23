@@ -197,3 +197,8 @@ modal implemented, starting to collect data.
 working. Need to consider mousewheel events in Firefox, do **not** work and looks
 as though a fix is fiddly. Also need to add menu, lookup "near me" and then
 investigate adSense/cookies.
+
+### Day 22: January 23, 2017
+
+** Today's Progress**: Finished writing a front (index) page and some
+re-factoring of code for re-use. Need to write the search page ...
