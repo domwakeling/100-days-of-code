@@ -202,3 +202,7 @@ investigate adSense/cookies.
 
 ** Today's Progress**: Finished writing a front (index) page and some
 re-factoring of code for re-use. Need to write the search page ...
+
+### Day 23: January 24, 2017
+
+** Today's Progress**: Started work on search page for ukskislopes
