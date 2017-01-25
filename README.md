@@ -206,3 +206,10 @@ re-factoring of code for re-use. Need to write the search page ...
 ### Day 23: January 24, 2017
 
 ** Today's Progress**: Started work on search page for ukskislopes
+
+### Day 24: January 25, 2017
+
+** Today's Progress**: Converted serving of the slopes JSON data from a
+Heroku app; this gets the data away from GitHub and will allow the search
+to be carried out by making a Heroku call rather than in-app (which will)
+mean less strain locally and less data being pulled down).
