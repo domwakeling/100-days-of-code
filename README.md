@@ -213,3 +213,10 @@ re-factoring of code for re-use. Need to write the search page ...
 Heroku app; this gets the data away from GitHub and will allow the search
 to be carried out by making a Heroku call rather than in-app (which will)
 mean less strain locally and less data being pulled down).
+
+### Day 25: January 26, 2017
+
+** Today's Progress**: Worked out how to protect an API key in test and production
+environments, dealt with requesting lat/long coords given place name or postcode
+using Google Maps API (some issues but now dealt with). Now need to use that info to
+generate a shorter GeoJSON list of slopes.
