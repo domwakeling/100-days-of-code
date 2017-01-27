@@ -220,3 +220,22 @@ mean less strain locally and less data being pulled down).
 environments, dealt with requesting lat/long coords given place name or postcode
 using Google Maps API (some issues but now dealt with). Now need to use that info to
 generate a shorter GeoJSON list of slopes.
+
+### Day 26: January 27, 2017
+
+** Today's Progress**: Completed back-end (using Cloud9 and deployed to Heroku) to
+enable both 'full' and 'search/' end-points - the latter expects to receive a place
+name or postcode and returns a JSON list of slopes within 50 miles together with
+their distance.
+
+Also set up a Raspberry Pi to act as a local server with a copy of the front-end
+files in order to see how the site renders on a mobile/tablet (some issues to be
+overcome, particularly with pinch-to-zoom on the map).
+
+** Next Steps**:
+* Write the front-end search (so that the site is functional)
+* Consider styling generally
+* Consider styling specifically for tablet/mobile device (now that I have a
+    server to see them)
+* Check and finesse, particularly zoom in Firefox (desktop) and on mobile/touch
+    browsers 
