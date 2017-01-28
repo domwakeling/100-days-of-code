@@ -238,4 +238,26 @@ overcome, particularly with pinch-to-zoom on the map).
 * Consider styling specifically for tablet/mobile device (now that I have a
     server to see them)
 * Check and finesse, particularly zoom in Firefox (desktop) and on mobile/touch
-    browsers 
+    browsers
+
+### Day 27: January 28, 2017
+
+** Today's Progress**: Dealt with touch events on the map screen; map now pans
+and zooms in reaction to touch events, and touching a slope 'dot' makes the modal
+visible (this was surprisingly difficult).
+
+Finished writing the search page, website if now functionally complete (albeit
+with some styling and finessing required).
+
+No longer queuing calls for JSON data - instead make an immediate call for the
+map (which is locally stored and should be rendered effectively immediately) and
+then trigger a call for the slopes JSON from Heroku; slower overall load time
+but should be perceived as faster; could make an immediate call for the slopes
+data but avoiding the unlikely issue if slopes is rendered before country (in
+which case suspect that the slopes would not be visible).
+
+** Next Steps**:
+* Consider specific styling requirements for mobile devices **and particularly**
+    small (and small landscape) screens - suspect will need to resize text as a
+    minimum in these circumstances
+* Put a copy of the site live (probably on domwakeling.com) and ask for feedback
