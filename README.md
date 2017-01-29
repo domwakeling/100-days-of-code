@@ -261,3 +261,9 @@ which case suspect that the slopes would not be visible).
     small (and small landscape) screens - suspect will need to resize text as a
     minimum in these circumstances
 * Put a copy of the site live (probably on domwakeling.com) and ask for feedback
+
+### Day 28: January 29, 2017
+
+** Today's Progress**: Implemented some tweaks to the site (zooming out should
+now re-center the page, improved layout on mobile devices, tweaks to search
+results) & set the site live at ski-slopes.uk
