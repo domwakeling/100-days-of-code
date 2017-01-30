@@ -267,3 +267,9 @@ which case suspect that the slopes would not be visible).
 ** Today's Progress**: Implemented some tweaks to the site (zooming out should
 now re-center the page, improved layout on mobile devices, tweaks to search
 results) & set the site live at ski-slopes.uk
+
+### Day 29: January 30, 2017
+
+** Today's Progress**: Researching Google Search Console, SEO optimisation and
+Google AdSense; tweaks to site for SEO and performance. Transferred WP install
+from local (using RPi as server) to hosted.
