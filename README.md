@@ -273,3 +273,8 @@ results) & set the site live at ski-slopes.uk
 ** Today's Progress**: Researching Google Search Console, SEO optimisation and
 Google AdSense; tweaks to site for SEO and performance. Transferred WP install
 from local (using RPi as server) to hosted.
+
+### Day 30: January 31, 2017
+
+** Today's Progress**: For something a little different, did some coding on the
+BBC Micro:Bit using MicroPython.
