@@ -278,3 +278,8 @@ from local (using RPi as server) to hosted.
 
 ** Today's Progress**: For something a little different, did some coding on the
 BBC Micro:Bit using MicroPython.
+
+### Day 31: February 1, 2017
+
+** Today's Progress**: Some more MicroPython on a BBC Micro:Bit ... because
+"why not?"
