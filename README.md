@@ -283,3 +283,9 @@ BBC Micro:Bit using MicroPython.
 
 ** Today's Progress**: Some more MicroPython on a BBC Micro:Bit ... because
 "why not?"
+
+### Day 32: February 3, 2017
+
+** Today's Progress**: Setting up another domain, local development environment
+and deployment, syncing via Atom/Remote-Sync, setting up redirects using a ```.htaccess
+``` file.
