@@ -294,3 +294,8 @@ and deployment, syncing via Atom/Remote-Sync, setting up redirects using a ```.h
 
 ** Today's Progress**: Working on project 2, setting up template including
 server-side includes.
+
+### Day 34: February 5, 2017
+
+** Today's Progress**: Tidying up new website (index page) and adding Google
+Analytics to both sites.
