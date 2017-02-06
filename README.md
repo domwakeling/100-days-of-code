@@ -299,3 +299,11 @@ server-side includes.
 
 ** Today's Progress**: Tidying up new website (index page) and adding Google
 Analytics to both sites.
+
+### Day 35: February 6, 2017
+
+** Today's Progress**: Final touches to index of new website, starting work on
+next page(s) and implementing a navbar/menu which provides a dropdown 'hamburger'
+with narrow screens and standard (right-aligned) menu on wider screens.
+
+**Link to work:** [Get started with BBC micro:bit](http://www.getstartedwithbbcmicrobit.co.uk)
