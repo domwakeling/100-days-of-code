@@ -307,3 +307,14 @@ next page(s) and implementing a navbar/menu which provides a dropdown 'hamburger
 with narrow screens and standard (right-aligned) menu on wider screens.
 
 **Link to work:** [Get started with BBC micro:bit](http://www.getstartedwithbbcmicrobit.co.uk)
+
+### Day 36: February 8, 2017
+
+** Today's Progress**: Continuing to work on implementing a navbar/menu - now have
+the full-width version working properly, still in the process of making the hamburger
+drop-down format properly.
+
+** Thoughts**: It'll be good to see this later and know that I wrote it (very nearly)
+from scratch, but at times like this I kind of wish I was using a bigger framework
+like Bootstrap! (actually using Skeleton, which only really implements a simple grid
+and a few button classes). 
