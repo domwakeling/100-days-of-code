@@ -317,4 +317,9 @@ drop-down format properly.
 ** Thoughts**: It'll be good to see this later and know that I wrote it (very nearly)
 from scratch, but at times like this I kind of wish I was using a bigger framework
 like Bootstrap! (actually using Skeleton, which only really implements a simple grid
-and a few button classes). 
+and a few button classes).
+
+### Day 37: February 9, 2017
+
+** Today's Progress**: Completed the navbar - now have a self-written collapsing
+navbar with hamburger ...
