@@ -323,3 +323,8 @@ and a few button classes).
 
 ** Today's Progress**: Completed the navbar - now have a self-written collapsing
 navbar with hamburger ...
+
+### Day 38: February 10, 2017
+
+** Today's Progress**: Working on a MicroPython app for micro:bit to put on website
+(kind of a two-fer)
