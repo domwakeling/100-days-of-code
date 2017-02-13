@@ -327,4 +327,12 @@ navbar with hamburger ...
 ### Day 38: February 10, 2017
 
 ** Today's Progress**: Working on a MicroPython app for micro:bit to put on website
-(kind of a two-fer)
+(kind of a two-fer).
+
+### Day 39: February 11, 2017
+
+** Today's Progress**: Continuing working on micro:bit website.
+
+### Day 40: February 12, 2017
+
+** Today's Progress**: Start working on ESSKIA website replacement.
