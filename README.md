@@ -336,3 +336,8 @@ navbar with hamburger ...
 ### Day 40: February 12, 2017
 
 ** Today's Progress**: Start working on ESSKIA website replacement.
+
+### Day 41: February 14, 2017
+
+** Today's Progress**: Tweaks to existing work and additional page re-writes for
+ESSKIA website replacement.
