@@ -341,3 +341,7 @@ navbar with hamburger ...
 
 ** Today's Progress**: Tweaks to existing work and additional page re-writes for
 ESSKIA website replacement.
+
+### Day 42: February 15, 2017
+
+** Today's Progress**: Two additional pages of ESSKIA website replacement written.
