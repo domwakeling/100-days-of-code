@@ -345,3 +345,7 @@ ESSKIA website replacement.
 ### Day 42: February 15, 2017
 
 ** Today's Progress**: Two additional pages of ESSKIA website replacement written.
+
+### Day 43: February 16, 2017
+
+** Today's Progress**: Another couple of pages for the ESSKIA replacement website.
