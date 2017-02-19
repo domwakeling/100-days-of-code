@@ -354,3 +354,10 @@ ESSKIA website replacement.
 
 ** Today's Progress**:  Nearly finished on the ESSKIA replacement website (only
 a gallery plugin to write plus final tidying up)
+
+### Day 45: February 19, 2017
+
+** Today's Progress**: Using 'slide' plugin to make photo-gallery carousels for
+ESSKIA replacement website; working well for full-screen but need to consider
+using something else for mobile - or at least working with the code that's
+already there.
