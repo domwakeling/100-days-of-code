@@ -361,3 +361,8 @@ a gallery plugin to write plus final tidying up)
 ESSKIA replacement website; working well for full-screen but need to consider
 using something else for mobile - or at least working with the code that's
 already there.
+
+### Day 46: February 20, 2017
+
+** Today's Progress**: Fixed issues with 'slide' plugin and finished four out of
+the five photo galleries ...
