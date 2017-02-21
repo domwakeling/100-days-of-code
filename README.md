@@ -366,3 +366,8 @@ already there.
 
 ** Today's Progress**: Fixed issues with 'slide' plugin and finished four out of
 the five photo galleries ...
+
+### Day 47: February 21, 2016
+
+** Today's Progress**: Finished last of the photo galleries, added more resources;
+waiting for final content before uploading.
