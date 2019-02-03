@@ -287,8 +287,8 @@ BBC Micro:Bit using MicroPython.
 ### Day 32: February 3, 2017
 
 ** Today's Progress**: Setting up another domain, local development environment
-and deployment, syncing via Atom/Remote-Sync, setting up redirects using a ```.htaccess
-``` file.
+and deployment, syncing via Atom/Remote-Sync, setting up redirects using
+a ```.htaccess``` file.
 
 ### Day 33: February 4, 2017
 
