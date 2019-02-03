@@ -200,30 +200,30 @@ investigate adSense/cookies.
 
 ### Day 22: January 23, 2017
 
-** Today's Progress**: Finished writing a front (index) page and some
+**Today's Progress**: Finished writing a front (index) page and some
 re-factoring of code for re-use. Need to write the search page ...
 
 ### Day 23: January 24, 2017
 
-** Today's Progress**: Started work on search page for ukskislopes
+**Today's Progress**: Started work on search page for ukskislopes
 
 ### Day 24: January 25, 2017
 
-** Today's Progress**: Converted serving of the slopes JSON data from a
+**Today's Progress**: Converted serving of the slopes JSON data from a
 Heroku app; this gets the data away from GitHub and will allow the search
 to be carried out by making a Heroku call rather than in-app (which will)
 mean less strain locally and less data being pulled down).
 
 ### Day 25: January 26, 2017
 
-** Today's Progress**: Worked out how to protect an API key in test and production
+**Today's Progress**: Worked out how to protect an API key in test and production
 environments, dealt with requesting lat/long coords given place name or postcode
 using Google Maps API (some issues but now dealt with). Now need to use that info to
 generate a shorter GeoJSON list of slopes.
 
 ### Day 26: January 27, 2017
 
-** Today's Progress**: Completed back-end (using Cloud9 and deployed to Heroku) to
+**Today's Progress**: Completed back-end (using Cloud9 and deployed to Heroku) to
 enable both 'full' and 'search/' end-points - the latter expects to receive a place
 name or postcode and returns a JSON list of slopes within 50 miles together with
 their distance.
@@ -232,7 +232,7 @@ Also set up a Raspberry Pi to act as a local server with a copy of the front-end
 files in order to see how the site renders on a mobile/tablet (some issues to be
 overcome, particularly with pinch-to-zoom on the map).
 
-** Next Steps**:
+**Next Steps**:
 * Write the front-end search (so that the site is functional)
 * Consider styling generally
 * Consider styling specifically for tablet/mobile device (now that I have a
@@ -242,7 +242,7 @@ overcome, particularly with pinch-to-zoom on the map).
 
 ### Day 27: January 28, 2017
 
-** Today's Progress**: Dealt with touch events on the map screen; map now pans
+**Today's Progress**: Dealt with touch events on the map screen; map now pans
 and zooms in reaction to touch events, and touching a slope 'dot' makes the modal
 visible (this was surprisingly difficult).
 
@@ -256,7 +256,7 @@ but should be perceived as faster; could make an immediate call for the slopes
 data but avoiding the unlikely issue if slopes is rendered before country (in
 which case suspect that the slopes would not be visible).
 
-** Next Steps**:
+**Next Steps**:
 * Consider specific styling requirements for mobile devices **and particularly**
     small (and small landscape) screens - suspect will need to resize text as a
     minimum in these circumstances
@@ -264,45 +264,45 @@ which case suspect that the slopes would not be visible).
 
 ### Day 28: January 29, 2017
 
-** Today's Progress**: Implemented some tweaks to the site (zooming out should
+**Today's Progress**: Implemented some tweaks to the site (zooming out should
 now re-center the page, improved layout on mobile devices, tweaks to search
 results) & set the site live at ski-slopes.uk
 
 ### Day 29: January 30, 2017
 
-** Today's Progress**: Researching Google Search Console, SEO optimisation and
+**Today's Progress**: Researching Google Search Console, SEO optimisation and
 Google AdSense; tweaks to site for SEO and performance. Transferred WP install
 from local (using RPi as server) to hosted.
 
 ### Day 30: January 31, 2017
 
-** Today's Progress**: For something a little different, did some coding on the
+**Today's Progress**: For something a little different, did some coding on the
 BBC Micro:Bit using MicroPython.
 
 ### Day 31: February 1, 2017
 
-** Today's Progress**: Some more MicroPython on a BBC Micro:Bit ... because
+**Today's Progress**: Some more MicroPython on a BBC Micro:Bit ... because
 "why not?"
 
 ### Day 32: February 3, 2017
 
-** Today's Progress**: Setting up another domain, local development environment
+**Today's Progress**: Setting up another domain, local development environment
 and deployment, syncing via Atom/Remote-Sync, setting up redirects using
 a ```.htaccess``` file.
 
 ### Day 33: February 4, 2017
 
-** Today's Progress**: Working on project 2, setting up template including
+**Today's Progress**: Working on project 2, setting up template including
 server-side includes.
 
 ### Day 34: February 5, 2017
 
-** Today's Progress**: Tidying up new website (index page) and adding Google
+**Today's Progress**: Tidying up new website (index page) and adding Google
 Analytics to both sites.
 
 ### Day 35: February 6, 2017
 
-** Today's Progress**: Final touches to index of new website, starting work on
+**Today's Progress**: Final touches to index of new website, starting work on
 next page(s) and implementing a navbar/menu which provides a dropdown 'hamburger'
 with narrow screens and standard (right-aligned) menu on wider screens.
 
@@ -310,69 +310,69 @@ with narrow screens and standard (right-aligned) menu on wider screens.
 
 ### Day 36: February 8, 2017
 
-** Today's Progress**: Continuing to work on implementing a navbar/menu - now have
+**Today's Progress**: Continuing to work on implementing a navbar/menu - now have
 the full-width version working properly, still in the process of making the hamburger
 drop-down format properly.
 
-** Thoughts**: It'll be good to see this later and know that I wrote it (very nearly)
+**Thoughts**: It'll be good to see this later and know that I wrote it (very nearly)
 from scratch, but at times like this I kind of wish I was using a bigger framework
 like Bootstrap! (actually using Skeleton, which only really implements a simple grid
 and a few button classes).
 
 ### Day 37: February 9, 2017
 
-** Today's Progress**: Completed the navbar - now have a self-written collapsing
+**Today's Progress**: Completed the navbar - now have a self-written collapsing
 navbar with hamburger ...
 
 ### Day 38: February 10, 2017
 
-** Today's Progress**: Working on a MicroPython app for micro:bit to put on website
+**Today's Progress**: Working on a MicroPython app for micro:bit to put on website
 (kind of a two-fer).
 
 ### Day 39: February 11, 2017
 
-** Today's Progress**: Continuing working on micro:bit website.
+**Today's Progress**: Continuing working on micro:bit website.
 
 ### Day 40: February 12, 2017
 
-** Today's Progress**: Start working on ESSKIA website replacement.
+**Today's Progress**: Start working on ESSKIA website replacement.
 
 ### Day 41: February 14, 2017
 
-** Today's Progress**: Tweaks to existing work and additional page re-writes for
+**Today's Progress**: Tweaks to existing work and additional page re-writes for
 ESSKIA website replacement.
 
 ### Day 42: February 15, 2017
 
-** Today's Progress**: Two additional pages of ESSKIA website replacement written.
+**Today's Progress**: Two additional pages of ESSKIA website replacement written.
 
 ### Day 43: February 16, 2017
 
-** Today's Progress**: Another couple of pages for the ESSKIA replacement website.
+**Today's Progress**: Another couple of pages for the ESSKIA replacement website.
 
 ### Day 44: February 17, 2017
 
-** Today's Progress**:  Nearly finished on the ESSKIA replacement website (only
+**Today's Progress**:  Nearly finished on the ESSKIA replacement website (only
 a gallery plugin to write plus final tidying up)
 
 ### Day 45: February 19, 2017
 
-** Today's Progress**: Using 'slide' plugin to make photo-gallery carousels for
+**Today's Progress**: Using 'slide' plugin to make photo-gallery carousels for
 ESSKIA replacement website; working well for full-screen but need to consider
 using something else for mobile - or at least working with the code that's
 already there.
 
 ### Day 46: February 20, 2017
 
-** Today's Progress**: Fixed issues with 'slide' plugin and finished four out of
+**Today's Progress**: Fixed issues with 'slide' plugin and finished four out of
 the five photo galleries ...
 
 ### Day 47: February 21, 2017
 
-** Today's Progress**: Finished last of the photo galleries, added more resources;
+**Today's Progress**: Finished last of the photo galleries, added more resources;
 waiting for final content before uploading.
 
 ### Day 48: February 23, 2017
 
-** Today's Progress**: Finalised last pages that I have information for - now just
+**Today's Progress**: Finalised last pages that I have information for - now just
 need some final missing info, photos and blurb before finishing.
